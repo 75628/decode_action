@@ -4,7 +4,6 @@
  */
 
 const $ = new Env("饿了么-我要当总裁");
-const $ = new Env("我要当总裁");
 const {
   cookiesToMap,
   elmRequestByApi,
